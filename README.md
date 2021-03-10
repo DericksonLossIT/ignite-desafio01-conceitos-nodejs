@@ -264,4 +264,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 ---
 
-Feito com 💜 by <a href="https://www.linkedin.com/in/DericksonLossIT">Derickson Loss</a> :wave:
+Feito com 💜 by <a href="https://www.linkedin.com/in/derickson-loss">Derickson Loss</a> :wave:
